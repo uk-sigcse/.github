@@ -1,6 +1,6 @@
 ## UK ACM SIGCSE
 
-Welcome to the UK ACM SIGCSE on github, there's more information about us at https://uki-sigcse.acm.org/
+Welcome to the UK ACM SIGCSE on github, there's more information about us at [uki-sigcse.acm.org](https://uki-sigcse.acm.org/)
 <!--
 
 **Here are some ideas to get you started:**
